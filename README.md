@@ -1,4 +1,4 @@
-# Hi, I'm ZY ☕
+# Hi, I'm ZY
 
 ---
 
@@ -10,7 +10,11 @@
 
 ### 📊 Language & Activity 
 
-[![Bahasa Terbanyak](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
+  <source media="(prefers-color-scheme: light)" srcset="https://vercel.app">
+  <img alt="Language Stats" src="https://vercel.app">
+</picture>
 
 ### 📬 Let's Connect
 
