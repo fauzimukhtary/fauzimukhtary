@@ -1,14 +1,24 @@
-# Hi, I'm ZY
+# Hi, I'm ZY 👋
+
+Welcome to my GitHub profile! I'm a passionate developer focused on solving complex problems and building efficient systems.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 About Me
 
-`C++` &nbsp;&bull;&nbsp; `Go` 
+* 📚 Currently deep diving into **Competitive Programming** and **Backend Engineering**.
+* ⚡ Constantly refining algorithms and optimizing code for efficiency.
 
 ---
 
-### 📊 Language & Activity 
+### 💻 Tech Stack & Tools
+
+* **Languages:** `C++` &nbsp;&bull;&nbsp; `Go`
+* **Focus Areas:** Data Structures, Algorithms, RESTful APIs, System Design.
+
+---
+
+### 📊 Most Used Languages
 
   <picture>
     <source
@@ -18,6 +28,10 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fauzimukhtary&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
+---
+
 ### 📬 Let's Connect
 
-* **Instagram** &mdash; [@fauzimukhtary](https://www.instagram.com/fauzimukhtary)
+Let's discuss programming, backend architecture, or anything tech-related!
+
+* 📸 **Instagram** — [@fauzimukhtary](https://instagram.com/fauzimukhtary)
