@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on solving comp
 
 ### 💻 Tech Stack & Tools
 
-* **Languages:** `C++` &nbsp;&bull;&nbsp; `Go`
+* **Languages:** `C++` &nbsp;&bull;&nbsp; `Go` &nbsp;&bull;&nbsp; `JavaScript`
 * **Focus Areas:** Data Structures, Algorithms, RESTful APIs, System Design.
 
 ---
