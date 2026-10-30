@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on solving comp
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Language & Activity Metrics
 
   <picture>
     <source
